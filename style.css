@@ -1,0 +1,29 @@
+body{
+    margin: 40px;
+}
+
+.img{
+    width: 150px;
+}
+
+.card{
+    width: 500px;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #F5EBEB;
+    color: #85586F;
+    border-bottom: 8px solid #D5B4B4;
+}
+
+.img-div{
+
+}
+
+.info-div{
+    font-family: 'Rubik', sans-serif;
+    padding-top: 20px;
+}
